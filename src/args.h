@@ -51,6 +51,7 @@ class Args {
   int verbose;
   std::string pretrainedVectors;
   bool saveOutput;
+  bool saveVectors;
   int seed;
 
   bool qout;
